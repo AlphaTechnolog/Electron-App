@@ -1,0 +1,23 @@
+.padding-left {
+    padding-left: 1em;
+}
+
+.padding-right {
+    padding-right: 1em;
+}
+
+.padding-up {
+    padding-top: 1em;
+}
+
+.padding-down {
+    padding-bottom: 1em;
+}
+
+.pointer-cursor {
+    cursor: pointer;
+}
+
+.default-cursor {
+    cursor: default;
+}
