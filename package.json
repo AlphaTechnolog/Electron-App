@@ -10,6 +10,6 @@
   "author": "AlphaGames",
   "license": "ISC",
   "dependencies": {
-    "electron": "^6.0.11"
+    "electron": "^13.6.6"
   }
 }
